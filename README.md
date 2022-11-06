@@ -14,3 +14,7 @@ This is basic tutorial series to understand the working and various inbuilt and 
 12) Neural Net with softmax and sigmoid 
 13) Activation Functions 
 14) Feed-Forward Net Neural Net
+15) Convolution Neural Network 
+16) Transfer learning 
+17) Tensorboard 
+18) Saving and loading models 
