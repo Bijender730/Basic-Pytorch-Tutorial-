@@ -18,3 +18,6 @@ This is basic tutorial series to understand the working and various inbuilt and 
 16) Transfer learning 
 17) Tensorboard 
 18) Saving and loading models 
+19) RNN tutorial - Name Classification using a Recurrent Neural Net 
+20) Lightning Tutorial - Lightweight
+21) LR Scheduler- Adjust the Learning Rate for better results 
